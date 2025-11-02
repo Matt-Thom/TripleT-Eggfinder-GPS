@@ -1,0 +1,8 @@
+# /mnt/GAMES_SSD/matt/Code/TripleT-Eggfinder-GPS-Test/requirements.txt
+# Python package dependencies for TripleT Eggfinder GPS project
+# Install with: pip install -r requirements.txt
+# RELEVANT FILES: gps_reader.py, README.md
+
+# Serial communication library for GPS module
+pyserial==3.5
+
